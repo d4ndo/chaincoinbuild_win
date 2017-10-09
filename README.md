@@ -2,7 +2,7 @@
 
 ####Host: Ubuntu
 
-#####Target: Windows 7/8/10
+####lTarget: Windows 7/8/10
 64 Bit
 
 ##Toolchain mxe
