@@ -1,4 +1,4 @@
-#Cross compile Chaincoin
+#chaincoinbuild_win
 
 ####Host: Ubuntu
 
